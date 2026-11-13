@@ -1,0 +1,9 @@
+{
+  "name": "PharmaPulse AI",
+  "description": "High-performance clinical dashboard with predictive incentives and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
